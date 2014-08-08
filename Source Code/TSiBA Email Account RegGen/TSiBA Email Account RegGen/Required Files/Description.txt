@@ -1,0 +1,30 @@
+TSiBA Email Account RegGen
+
+Commerce I.T. moved to sponsor.install a computer lab for the TSiBA Education School situated in Cape Town. This program is launched on system login and quietly sets up the registry values to create a personalised Outlook Email Express account on the system.
+
+The default values created are shown below, but these can be altered by using the supplied TSiBA_Config.txt
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Account Manager\Accounts\00000001]
+"Account Name"="172.16.1.254"
+"Connection Type"=dword:00000003
+"IMAP Server"="172.16.1.254"
+"IMAP User Name"="t0532"
+"IMAP Prompt for Password"=dword:00000001
+"SMTP Server"="172.16.1.254"
+"SMTP Display Name"="Tsiba Student"
+"SMTP Email Address"="t0532@tsiba.org.za"
+"IMAP Polling"=dword:00000001
+"IMAP Dirty"=dword:00000000
+
+Created by Craig Lotter, July 2006
+
+Note: 
+Created for Commerce I.T.
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic using Visual Studio .NET 
+Implements simple concepts such as text file manipulation and registry programming.
+Level of Complexity: Very Simple

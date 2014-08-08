@@ -1,0 +1,20 @@
+obj\Debug\TSiBA Email Account RegGen.exe
+obj\Debug\TSiBA Email Account RegGen.xml
+obj\Debug\TSiBA Email Account RegGen.pdb
+bin\Debug\TSiBA Email Account RegGen.exe
+bin\Debug\TSiBA Email Account RegGen.pdb
+bin\Debug\TSiBA Email Account RegGen.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TSiBA_Email_Account_RegGen.Main_Screen.resources
+obj\Debug\TSiBA_Email_Account_RegGen.Resources.resources
+obj\Debug\TSiBA Email Account RegGen.vbproj.GenerateResource.Cache
+bin\Release\TSiBA Email Account RegGen.exe
+bin\Release\TSiBA Email Account RegGen.pdb
+bin\Release\TSiBA Email Account RegGen.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TSiBA_Email_Account_RegGen.Main_Screen.resources
+obj\Release\TSiBA_Email_Account_RegGen.Resources.resources
+obj\Release\TSiBA Email Account RegGen.vbproj.GenerateResource.Cache
+obj\Release\TSiBA Email Account RegGen.exe
+obj\Release\TSiBA Email Account RegGen.xml
+obj\Release\TSiBA Email Account RegGen.pdb

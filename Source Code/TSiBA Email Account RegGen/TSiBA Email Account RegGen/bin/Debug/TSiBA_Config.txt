@@ -1,0 +1,3 @@
+server=172.16.1.254
+email=@tsiba.org.za
+displayName=Tsiba Student

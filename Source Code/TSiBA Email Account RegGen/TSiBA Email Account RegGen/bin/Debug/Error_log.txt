@@ -1,0 +1,8 @@
+26072006 15:33:10: Application Load
+System.InvalidCastException: Conversion from string "hello" to type 'Integer' is not valid. ---> System.FormatException: Input string was not in a correct format.
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ParseDouble(String Value, NumberFormatInfo NumberFormat)
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   --- End of inner exception stack trace ---
+   at Microsoft.VisualBasic.CompilerServices.Conversions.ToInteger(String Value)
+   at TSiBA_Email_Account_RegGen.Main_Screen.Main_Screen_Load(Object sender, EventArgs e) in C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\TSiBA Email Account RegGen\TSiBA Email Account RegGen\Main_Screen.vb:line 43
+
